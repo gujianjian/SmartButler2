@@ -5,4 +5,5 @@
     <string name="user">用户中心</string>
     <string name="wechat">微信精选</string>
     <string name="setting">设置</string>
+    <string name="string_guide">引导页</string>
 </resources>
